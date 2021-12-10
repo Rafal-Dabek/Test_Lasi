@@ -143,17 +143,20 @@ td, th
 #opisWyniku
 {
     font-size: 24px;
+    visibility: collapse;
 }
 
 #tabela{
     width:80%;
     margin: auto;
+    background-color:white;
 }
 
-.tabelaCechy td{
+#tabela td{
 text-align: left;
 }
 
-.tabelaCechy{
-    background-color:white;
+#notkaDoStyli{
+    width:80%;
+    margin: auto;
 }

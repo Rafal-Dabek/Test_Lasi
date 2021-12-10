@@ -162,7 +162,7 @@ else
         // "Władczy: " + L + "<br>" +
         // "Ofiarny: " + M + "<br>" +
         // "Poważny: " + N + "<br>";
-    
+        document.getElementById("opisWyniku").style.visibility = "visible";
    }
 
   if(!isNaN(document.getElementById("opisWyniku").innerHTML)){
