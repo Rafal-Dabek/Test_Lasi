@@ -143,7 +143,7 @@ td, th
 #opisWyniku
 {
     font-size: 24px;
-    visibility: collapse;
+    visibility: visible;
 }
 
 #tabela{
